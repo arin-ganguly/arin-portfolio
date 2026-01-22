@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aringanguly.netlify.app/sitemap.xml
